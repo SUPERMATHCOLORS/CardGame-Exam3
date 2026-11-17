@@ -19,10 +19,10 @@ GameData::GameData(std::istream& is, std::ostream& os):
 
 std::istream& GameData::getIS(){
     return m_input;
-}; //Returns the input stream data member.
+};
 std::ostream& GameData::getOS(){
     return m_output;
-}; //Returns the output stream data member.
+};
 int GameData::getDisplacement() const{
     return m_Displacement;
 };
