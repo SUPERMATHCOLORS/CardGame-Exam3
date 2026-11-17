@@ -1,6 +1,6 @@
 # Future Ideas
 ## Potential Wording Change
-- replace displacement with positon or distance
+- replace displacement with position or distance
 ## Gameplay Changes
 - add costs to cards and remove card playing limit
 - adding reshuffling (or have it be another ending condition or have that be a setting)
