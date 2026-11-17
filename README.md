@@ -5,14 +5,20 @@
 This is a terminal-based card game that uses multiple different derivitaves of position and also somewhat displacement. The goal is to reach at least
 2500 displacement within 10 turns.
 
-## Build and run
+## Build and Run
 
-From this directory, build the program with:
+From the project directory, build and run the game:
+
+```sh
 make
-run the game with:
 ./card-game
-remove the executable and object files using
+```
+
+Remove the executable and object files:
+
+```sh
 make clean
+```
 
 ## Required Feature
 
